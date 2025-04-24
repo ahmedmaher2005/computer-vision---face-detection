@@ -1,2 +1,2 @@
-# computer-vision---face-detection
+# computer-vision---face detection
 face detection
